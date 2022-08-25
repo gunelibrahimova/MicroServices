@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "50daabd6-be5f-402d-9113-f2b00c4a3c18": {
+      "ProjectGuid": "50daabd6-be5f-402d-9113-f2b00c4a3c18",
+      "DisplayName": "UserManager.API.Default",
+      "ColorIndex": 0
+    },
+    "4dec9f97-f66a-4359-8e08-9d578889b324": {
+      "ProjectGuid": "4dec9f97-f66a-4359-8e08-9d578889b324",
+      "DisplayName": "UserManager.Application",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

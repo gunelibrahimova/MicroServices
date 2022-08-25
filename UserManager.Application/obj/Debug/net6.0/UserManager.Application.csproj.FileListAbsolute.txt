@@ -1,0 +1,12 @@
+D:\K205\Back\MicroServices2\UserManager.Application\obj\Debug\net6.0\UserManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\K205\Back\MicroServices2\UserManager.Application\obj\Debug\net6.0\UserManager.Application.AssemblyInfoInputs.cache
+D:\K205\Back\MicroServices2\UserManager.Application\obj\Debug\net6.0\UserManager.Application.AssemblyInfo.cs
+D:\K205\Back\MicroServices2\UserManager.Application\obj\Debug\net6.0\UserManager.Application.csproj.CoreCompileInputs.cache
+D:\K205\Back\MicroServices2\UserManager.Application\obj\Debug\net6.0\UserManager.Application.csproj.AssemblyReference.cache
+D:\K205\Back\MicroServices2\UserManager.Application\bin\Debug\net6.0\UserManager.Application.deps.json
+D:\K205\Back\MicroServices2\UserManager.Application\bin\Debug\net6.0\UserManager.Application.dll
+D:\K205\Back\MicroServices2\UserManager.Application\bin\Debug\net6.0\ref\UserManager.Application.dll
+D:\K205\Back\MicroServices2\UserManager.Application\bin\Debug\net6.0\UserManager.Application.pdb
+D:\K205\Back\MicroServices2\UserManager.Application\obj\Debug\net6.0\UserManager.Application.dll
+D:\K205\Back\MicroServices2\UserManager.Application\obj\Debug\net6.0\ref\UserManager.Application.dll
+D:\K205\Back\MicroServices2\UserManager.Application\obj\Debug\net6.0\UserManager.Application.pdb

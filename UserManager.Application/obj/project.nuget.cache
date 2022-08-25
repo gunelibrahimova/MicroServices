@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VydsHMcefaUbKJBMm2vLk5mfbj8n4g1UoG960fnQXTYNlHm4Wa3Ue0CqZr6josWntvrHClPA1RkHOXbNV2ZOKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\MicroServices\\UserManager.Application\\UserManager.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

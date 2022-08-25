@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xZqsfblURFF6AhrFd23l06Q+Z4nDelRCwwCnYLYGP28=",
+  "Source": "UserManager.API.Default",
+  "BasePath": "_content/UserManager.API.Default",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
